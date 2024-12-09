@@ -1,4 +1,4 @@
-# SapMvcApp
+# SapMvcApp -  ESSE PROJETO NÃO FUNCIONARA PARA TESTES! SE QUISER TESTAR MANDE-ME UM EMAIL PARA EU GERAR UM TOKEN PARA VOCÊ! 
 
 Este é um projeto de API construído com ASP.NET Core, que interage com uma API SAP. O objetivo é demonstrar como fazer chamadas HTTP para uma API SAP, gerenciar sessões e tokens CSRF, e expor rotas para interagir com os dados SAP de forma simples.
 
