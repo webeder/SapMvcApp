@@ -16,7 +16,7 @@ namespace SapMvcApp.Controllers
 
         private const string SapClient = "110";
         private const string BaseUrl = "https://vhudsds4ci.sap.unidasul.com.br:44300/sap/opu/odata/sap/z_gw_authorization_poc_srv";
-        private const string AuthHeader = "Basic MTc5MDQ1OlVuaWRhc3VsQDIwMjA=";
+        private const string AuthHeader = "Basic ***************";
 
         public SapController(IHttpClientFactory httpClientFactory)
         {
